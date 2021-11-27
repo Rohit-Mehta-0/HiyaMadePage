@@ -8,7 +8,7 @@ function HeroSection() {
     <div className='hero-container'>
       <video src='/videos/video-1.mp4' autoPlay loop muted />
       <h1>Hiya Made</h1>
-      <p>The Bond of Eternal Smiles</p>
+      <p>Putting The HAND Back Into HANDMADE</p>
       <div className='hero-btns'>
         <Link to='/cards'>
         <Button
