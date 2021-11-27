@@ -19,13 +19,13 @@ function Category2() {
               src='images/decor/Decor1.png'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Adventure'
-              path='/services'
+              path=''
             />
             <CardItem
               src='images/decor/Decor2.png'
               text='Travel through the Islands of Bali in a Private Cruise'
               label='Luxury'
-              path='/services'
+              path=''
             />
           </ul>
           <ul className='cards__items'>
@@ -33,19 +33,19 @@ function Category2() {
               src='images/decor/Decor3.png'
               text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
               label='Mystery'
-              path='/services'
+              path=''
             />
             <CardItem
               src='images/decor/Decor4.png'
               text='Experience Football on Top of the Himilayan Mountains'
               label='Adventure'
-              path='/products'
+              path=''
             />
             <CardItem
               src='images/decor/Decor5.png'
               text='Ride through the Sahara Desert on a guided camel tour'
               label='Adrenaline'
-              path='/sign-up'
+              path=''
             />
           </ul>
           <ul className='cards__items'>
@@ -53,13 +53,13 @@ function Category2() {
               src='images/decor/Decor6.png'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Adventure'
-              path='/services'
+              path=''
             />
             <CardItem
               src='images/decor/Decor7.png'
               text='Travel through the Islands of Bali in a Private Cruise'
               label='Luxury'
-              path='/services'
+              path=''
             />
           </ul>
           <ul className='cards__items'>
@@ -67,19 +67,19 @@ function Category2() {
               src='images/decor/Decor8.png'
               text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
               label='Mystery'
-              path='/services'
+              path=''
             />
             <CardItem
               src='images/decor/Decor9.png'
               text='Experience Football on Top of the Himilayan Mountains'
               label='Adventure'
-              path='/products'
+              path=''
             />
             <CardItem
               src='images/decor/Decor5.png'
               text='Ride through the Sahara Desert on a guided camel tour'
               label='Adrenaline'
-              path='/sign-up'
+              path=''
             />
           </ul>
         </div>
