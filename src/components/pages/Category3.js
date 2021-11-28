@@ -19,13 +19,13 @@ function Category3() {
               src='images/Utensils/Utensils1.png'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Adventure'
-              path=""
+              path="/Utensil1"
             />
             <CardItem
               src='images/Utensils/Utensils2.png'
               text='Travel through the Islands of Bali in a Private Cruise'
               label='Luxury'
-              path=""
+              path="/Utensil2"
             />
           </ul>
           <ul className='cards__items'>
@@ -33,20 +33,20 @@ function Category3() {
               src='images/Utensils/Utensils3.png'
               text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
               label='Mystery'
-              path=""
+              path="/Utensil3"
 
             />
             <CardItem
               src='images/Utensils/Utensils4.png'
               text='Experience Football on Top of the Himilayan Mountains'
               label='Adventure'
-              path=""
+              path="/Utensil4"
             />
             <CardItem
               src='images/Utensils/Utensils5.png'
               text='Ride through the Sahara Desert on a guided camel tour'
               label='Adrenaline'
-              path=""
+              path="/Utensil5"
             />
           </ul>
           <ul className='cards__items'>
@@ -54,13 +54,13 @@ function Category3() {
               src='images/Utensils/Utensils6.png'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Adventure'
-              path=""
+              path="/Utensil6"
             />
             <CardItem
               src='images/Utensils/Utensils7.png'
               text='Travel through the Islands of Bali in a Private Cruise'
               label='Luxury'
-              path=""
+              path="/Utensil7"
             />
           </ul>
           <ul className='cards__items'>
@@ -68,7 +68,7 @@ function Category3() {
               src='images/Utensils/Utensils8.png'
               text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
               label='Mystery'
-              path=""
+              path="/Utensil8"
 
             />
           </ul>

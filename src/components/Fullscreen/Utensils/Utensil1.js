@@ -1,9 +1,23 @@
-import React from 'react'
-import '../Fullscreen.css'
+import React from "react";
+import "../Fullscreen.css";
 export default function Utensil1() {
-    return (
-        <div className="Container">
-            <img src="images/decor/Decor1.png" alt="img" className="fullscreenImage"/> 
-        </div>
-    )
+  return (
+    <div className="Container">
+      <img
+        src="images/Utensils/ut1.png"
+        alt="img"
+        className="fullscreenImage"
+      />
+      <img
+        src="images/Utensils/ut1-1.png"
+        alt="img"
+        className="fullscreenImage"
+      />
+      <img
+        src="images/Utensils/ut1-2.png"
+        alt="img"
+        className="fullscreenImage"
+      />
+    </div>
+  );
 }

@@ -16,8 +16,8 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div className='footer-link-items'>
             <h2>Social Media</h2>
-            <Link to='/'>Instagram</Link>
             <Link to='/'>Facebook</Link>
+            <div>Whats App: +918791562944</div>
          </div>
         </div>
       </div>

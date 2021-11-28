@@ -17,36 +17,31 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/Frames/frames1.png'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
-              label='Adventure'
-              path="/Decor1"
+              src='images/Utensils/ut1.png'
+              text='Traditional Kettle with Mandala Art'
+              path="/Utensil1"
             />           
             <CardItem
-              src='images/Frames/frames2.png'
-              text='Travel through the Islands of Bali in a Private Cruise'
-              label='Luxury'
-              path=""
+              src='images/Utensils/ut2.png'
+              text='Hand Made Mandala Art on Tray'
+              path="/Utensil2"
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/Frames/frames3.png'
+              src='images/Utensils/ut3.png'
               text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
-              label='Mystery'
-              path=""
+              path="/Utensil3"
             />
             <CardItem
-              src='images/Frames/frames4.png'
+              src='images/Utensils/ut4.png'
               text='Experience Football on Top of the Himilayan Mountains'
-              label='Adventure'
-              path=""
+              path="/Utensil4"
             />
             <CardItem
-              src='images/Frames/frames5.png'
+              src='images/Utensils/ut5.png'
               text='Ride through the Sahara Desert on a guided camel tour'
-              label='Adrenaline'
-              path=""
+              path="/Utensil5"
             />
           </ul>
         </div>
@@ -63,39 +58,38 @@ function Cards() {
          </Button>
          <div className='cards__container'>
         <div className='cards__wrapper'>
-          <ul className='cards__items'>
+        <ul className='cards__items'>
             <CardItem
-              src='images/decor/Decor1.png'
+              src='images/decor/decor1.png'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Adventure'
-              path=''
-
+              path='/Decor1'
             />
             <CardItem
-              src='images/decor/Decor2.png'
+              src='images/decor/decor2.png'
               text='Travel through the Islands of Bali in a Private Cruise'
               label='Luxury'
-              path=''
+              path='/Decor2'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/decor/Decor3.png'
+              src='images/decor/decor3.png'
               text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
               label='Mystery'
-              path=''
+              path='/Decor3'
             />
             <CardItem
-              src='images/decor/Decor4.png'
+              src='images/decor/decor4.png'
               text='Experience Football on Top of the Himilayan Mountains'
               label='Adventure'
-              path=''
+              path='/Decor4'
             />
             <CardItem
-              src='images/decor/Decor4.png'
+              src='images/decor/decor5.png'
               text='Ride through the Sahara Desert on a guided camel tour'
               label='Adrenaline'
-              path=''
+              path='/Decor5'
             />
           </ul>
         </div>
@@ -114,37 +108,32 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/Utensils/Utensils1.png'
+              src='images/Frames/frame1.png'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
-              label='Adventure'
-              path=""
+              path="/Frame1"
             />
             <CardItem
-              src='images/Utensils/Utensils2.png'
+              src='images/Frames/frame2.png'
               text='Travel through the Islands of Bali in a Private Cruise'
-              label='Luxury'
-              path=""
+              path="/Frame2"
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/Utensils/Utensils3.png'
+              src='images/Frames/frame3.png'
               text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
-              label='Mystery'
-              path=""
+              path="/Frame3"
 
             />
             <CardItem
-              src='images/Utensils/Utensils4.png'
+              src='images/Frames/frame4.png'
               text='Experience Football on Top of the Himilayan Mountains'
-              label='Adventure'
-              path=""
+              path="/Frame4"
             />
             <CardItem
-              src='images/Utensils/Utensils5.png'
+              src='images/Frames/frame5.png'
               text='Ride through the Sahara Desert on a guided camel tour'
-              label='Adrenaline'
-              path=""
+              path="/Frame5"
             />
           </ul>
         </div>
@@ -163,37 +152,29 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/Paper/img1.png'
+              src='images/Paper/pp1.png'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
-              label='Adventure'
-              path=""
+              path="/Paper1"
             />
             <CardItem
-              src='images/Paper/img2.png'
+              src='images/Paper/pp2.png'
               text='Travel through the Islands of Bali in a Private Cruise'
-              label='Luxury'
-              path=""
+              path="/Paper2"
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/Paper/img3.png'
+              src='images/Paper/pp3.png'
               text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
-              label='Mystery'
-              path=""
+              path="/Paper3"
 
             />
             <CardItem
-              src='images/Paper/img4.png'
+              src='images/Paper/pp4.png'
               text='Experience Football on Top of the Himilayan Mountains'
-              label='Adventure'
+              path='/Paper4'
             />
-            <CardItem
-              src='images/Paper/img05.png'
-              text='Ride through the Sahara Desert on a guided camel tour'
-              label='Adrenaline'
-              path=""
-            />
+           
           </ul>
         </div>
       </div>

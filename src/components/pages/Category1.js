@@ -16,51 +16,57 @@ function Category1() {
         <div className='cards__wrapper'>
         <ul className='cards__items'>
             <CardItem
-              src='images/Frames/frames1.png'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
-              label='Adventure'
-              path=""
+              src='images/Utensils/ut1.png'
+              text='Traditional Kettle with Mandala Art'
+              path="/Utensil1"
             />           
             <CardItem
-              src='images/Frames/frames2.png'
-              text='Travel through the Islands of Bali in a Private Cruise'
-              label='Luxury'
-              path=""
+              src='images/Utensils/ut2.png'
+              text='Hand Made Mandala Art on Tray'
+              path="/Utensil2"
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/Frames/frames3.png'
+              src='images/Utensils/ut3.png'
               text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
-              label='Mystery'
-              path=""
+              path="/Utensil3"
             />
             <CardItem
-              src='images/Frames/frames4.png'
+              src='images/Utensils/ut4.png'
               text='Experience Football on Top of the Himilayan Mountains'
-              label='Adventure'
-              path=""
+              path="/Utensil4"
             />
             <CardItem
-              src='images/Frames/frames5.png'
+              src='images/Utensils/ut5.png'
               text='Ride through the Sahara Desert on a guided camel tour'
-              label='Adrenaline'
-              path=""
+              path="/Utensil5"
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/Frames/frames6.png'
+              src='images/Utensils/ut6.png'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
-              label='Adventure'
-              path=""
+              path="/Utensil6"
             />           
             <CardItem
-              src='images/Frames/frames7.png'
+              src='images/Utensils/ut7.png'
               text='Travel through the Islands of Bali in a Private Cruise'
-              label='Luxury'
-              path=""
+              path="/Utensil7"
             />
+          </ul>
+          <ul className='cards__items'>
+            <CardItem
+              src='images/Utensils/ut8.png'
+              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
+              path="/Utensil8"
+            />
+            <CardItem
+              src='images/Utensils/ut9.png'
+              text='Experience Football on Top of the Himilayan Mountains'
+              path="/Utensil9"
+            />
+          
           </ul>
         </div>
       </div>

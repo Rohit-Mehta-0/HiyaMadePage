@@ -16,70 +16,92 @@ function Category2() {
         <div className='cards__wrapper'>
         <ul className='cards__items'>
             <CardItem
-              src='images/decor/Decor1.png'
+              src='images/decor/decor1.png'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Adventure'
-              path=''
+              path='/Decor1'
             />
             <CardItem
-              src='images/decor/Decor2.png'
+              src='images/decor/decor2.png'
               text='Travel through the Islands of Bali in a Private Cruise'
               label='Luxury'
-              path=''
+              path='/Decor2'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/decor/Decor3.png'
+              src='images/decor/decor3.png'
               text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
               label='Mystery'
-              path=''
+              path='/Decor3'
             />
             <CardItem
-              src='images/decor/Decor4.png'
+              src='images/decor/decor4.png'
               text='Experience Football on Top of the Himilayan Mountains'
               label='Adventure'
-              path=''
+              path='/Decor4'
             />
             <CardItem
-              src='images/decor/Decor5.png'
+              src='images/decor/decor5.png'
               text='Ride through the Sahara Desert on a guided camel tour'
               label='Adrenaline'
-              path=''
+              path='/Decor5'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/decor/Decor6.png'
+              src='images/decor/decor6.png'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Adventure'
-              path=''
+              path='/Decor6'
             />
             <CardItem
-              src='images/decor/Decor7.png'
+              src='images/decor/decor7.png'
               text='Travel through the Islands of Bali in a Private Cruise'
               label='Luxury'
-              path=''
+              path='/Decor7'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/decor/Decor8.png'
+              src='images/decor/decor8.png'
               text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
               label='Mystery'
-              path=''
+              path='/Decor8'
             />
             <CardItem
-              src='images/decor/Decor9.png'
+              src='images/decor/decor9.png'
               text='Experience Football on Top of the Himilayan Mountains'
               label='Adventure'
-              path=''
+              path='/Decor9'
             />
             <CardItem
-              src='images/decor/Decor5.png'
+              src='images/decor/decor10.png'
               text='Ride through the Sahara Desert on a guided camel tour'
               label='Adrenaline'
-              path=''
+              path='/Decor10'
+            />
+          </ul>
+          <ul className='cards__items'>
+            <CardItem
+              src='images/decor/decor11.png'
+              text='Explore the hidden waterfall deep inside the Amazon Jungle'
+              label='Adventure'
+              path='/Decor11'
+            />
+            <CardItem
+              src='images/decor/decor12.png'
+              text='Travel through the Islands of Bali in a Private Cruise'
+              label='Luxury'
+              path='/Decor12'
+            />
+          </ul>
+          <ul className='cards__items'>
+            <CardItem
+              src='images/decor/decor13.png'
+              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
+              label='Mystery'
+              path='/Decor13'
             />
           </ul>
         </div>
