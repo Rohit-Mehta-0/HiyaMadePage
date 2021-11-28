@@ -9,7 +9,7 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div className='footer-link-items'>
             <h2>Contact Us</h2>
-            <div>Phone: +917895340519</div>
+            <div>Phone: +917895340519, +918791562944</div>
             <div>Email: contact2hiyamade@gmail.com</div>
           </div>
         </div>

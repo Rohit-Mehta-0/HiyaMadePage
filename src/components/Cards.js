@@ -20,7 +20,7 @@ function Cards() {
               src='images/Frames/frames1.png'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Adventure'
-              path=""
+              path="/Decor1"
             />           
             <CardItem
               src='images/Frames/frames2.png'
