@@ -11,36 +11,36 @@ function Cards() {
       <h1>Check out these EPIC Works</h1>
       <div className="category">
         <Button buttonSize='btn--wide'>
-            Category 1
+            Category 1 - Utensils(Bartan)
          </Button>
          <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
               src='images/Utensils/ut1.png'
-              text='Traditional Kettle with Mandala Art'
+              text='Traditional Kettle with Mandala Art (CAN BE CUSTOMIZED FURTHER DEMAND) See More.....'
               path="/Utensil1"
             />           
             <CardItem
-              src='images/Utensils/ut2.png'
-              text='Hand Made Mandala Art on Tray'
-              path="/Utensil2"
+              src='images/Utensils/ut7.png'
+              text='Hand Made Mandala Art on Tray (CAN BE CUSTOMIZED FURTHER DEMAND)'
+              path="/Utensil7"
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
               src='images/Utensils/ut3.png'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
+              text='Shree Plate(Thaal) with Traditional Kumaoni Aipan (CAN BE CUSTOMIZED FURTHER DEMAND)'
               path="/Utensil3"
             />
             <CardItem
-              src='images/Utensils/ut4.png'
-              text='Experience Football on Top of the Himilayan Mountains'
-              path="/Utensil4"
+              src='images/Utensils/ut2.png'
+              text='Tray With Colourful Mandala Art (CAN BE CUSTOMIZED FURTHER DEMAND) See More....'
+              path="/Utensil2"
             />
             <CardItem
               src='images/Utensils/ut5.png'
-              text='Ride through the Sahara Desert on a guided camel tour'
+              text='Traditional Pahadi Vessels Painted with Aipan (CAN BE CUSTOMIZED FURTHER DEMAND)'
               path="/Utensil5"
             />
           </ul>
@@ -54,42 +54,39 @@ function Cards() {
     <br/><br/><br/><br/><hr/><hr/><hr/><hr/><hr/><hr/><hr/>
       <div className="category">
         <Button buttonSize='btn--wide'>
-            Category 2
+            Category 2 - Home Decor
          </Button>
          <div className='cards__container'>
         <div className='cards__wrapper'>
         <ul className='cards__items'>
             <CardItem
-              src='images/decor/decor1.png'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
-              label='Adventure'
-              path='/Decor1'
+              src='images/decor/decor8.png'
+              text='Hand Customized Cushions Giving a Instance of Mighty Himalayas (CAN BE CUSTOMIZED FURTHER DEMAND)'
+              path='/Decor8'
             />
             <CardItem
-              src='images/decor/decor2.png'
-              text='Travel through the Islands of Bali in a Private Cruise'
-              label='Luxury'
-              path='/Decor2'
+              src='images/decor/decor5.png'
+              text='Colourful Flags with Spritual Symbols used as Decoratives (CAN BE CUSTOMIZED FURTHER DEMAND)'
+              path='/Decor5'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
               src='images/decor/decor3.png'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
-              label='Mystery'
+              text='Decorative Wall Hanging with Spritual Symbols(CAN BE CUSTOMIZED FURTHER ON DEMAND)'
+
               path='/Decor3'
             />
             <CardItem
               src='images/decor/decor4.png'
-              text='Experience Football on Top of the Himilayan Mountains'
-              label='Adventure'
+              text='Flag Quoted With Pahadi Cheete Shan se Jeete (CAN BE CUSTOMIZED FURTHER DEMAND)'
+
               path='/Decor4'
             />
             <CardItem
-              src='images/decor/decor5.png'
-              text='Ride through the Sahara Desert on a guided camel tour'
-              label='Adrenaline'
-              path='/Decor5'
+              src='images/decor/decor9.png'
+              text='Customized Hand Made Cushions with well known Kumaoni Slangs (CAN BE CUSTOMIZED FURTHER DEMAND)'
+              path='/Decor9'
             />
           </ul>
         </div>
@@ -102,37 +99,37 @@ function Cards() {
       <br/><br/><br/><br/><hr/><hr/><hr/><hr/><hr/><hr/><hr/>
       <div className="category">
         <Button buttonSize='btn--wide'>
-            Category 3
+            Category 3 - Portraits/Photoframes
          </Button>
          <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
               src='images/Frames/frame1.png'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
+              text='Fine Colorful Art Portraying "BABA NEEMKIROLI" supported with Aipan Design'
               path="/Frame1"
             />
             <CardItem
               src='images/Frames/frame2.png'
-              text='Travel through the Islands of Bali in a Private Cruise'
+              text='Unique Aipan Design Presenting Lord Ganesha(CAN BE CUSTOMIZED ON FURTHER DEMAND)'
               path="/Frame2"
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
               src='images/Frames/frame3.png'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
+              text='Hand Made Chowki/Frame Shaped with Aipan Art (CAN BE CUSTOMIZED ON FURTHER DEMAND)'
               path="/Frame3"
 
             />
             <CardItem
               src='images/Frames/frame4.png'
-              text='Experience Football on Top of the Himilayan Mountains'
+              text='Magical Beauty of Mighty Lord Shiva Created over Cloth with Aipan Art (CAN BE CUSTOMIZED ON FURTHER DEMAND)'
               path="/Frame4"
             />
             <CardItem
               src='images/Frames/frame5.png'
-              text='Ride through the Sahara Desert on a guided camel tour'
+              text='Magical Beauty of Mighty Lord Shiva Created over Chawki with Aipan Art (CAN BE CUSTOMIZED ON FURTHER DEMAND)'
               path="/Frame5"
             />
           </ul>
@@ -146,32 +143,32 @@ function Cards() {
     <br/><br/><br/><br/><hr/><hr/><hr/><hr/><hr/><hr/><hr/>
       <div className="category">
         <Button buttonSize='btn--wide'>
-            Category 4
+            Category 4 - Wall Hangings
          </Button>
          <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
               src='images/Paper/pp1.png'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
+              text='Fine Art presenting Stunning Photoframe of DemiGoddess (CAN BE CUSTOMIZED ON FURTHER DEMAND)'
               path="/Paper1"
             />
             <CardItem
               src='images/Paper/pp2.png'
-              text='Travel through the Islands of Bali in a Private Cruise'
+              text='Beautiful Wall Hanging Of Mighty Ganesha made with Mandala Art (CAN BE CUSTOMIZED ON FURTHER DEMAND) '
               path="/Paper2"
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
               src='images/Paper/pp3.png'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
+              text='Beautiful Aipan Painting Of Mighty Ganesha represting The Himalayan Culture Over a Cloth (CAN BE CUSTOMIZED ON FURTHER DEMAND)'
               path="/Paper3"
 
             />
             <CardItem
               src='images/Paper/pp4.png'
-              text='Experience Football on Top of the Himilayan Mountains'
+              text='Hand Made Wall Hanging Portraying Sunset via Mandala Art (CAN BE CUSTOMIZED ON FURTHER DEMAND)'
               path='/Paper4'
             />
            

@@ -10,60 +10,60 @@ function Category1() {
     <div className='cards' id="cards">
      <div className="category">
         <Button buttonSize='btn--wide'>
-            Category 1
+            Category 1 - Utensils(Bartan)
          </Button>
          <div className='cards__container'>
         <div className='cards__wrapper'>
         <ul className='cards__items'>
             <CardItem
               src='images/Utensils/ut1.png'
-              text='Traditional Kettle with Mandala Art'
+              text='Traditional Kettle with Mandala Art '
               path="/Utensil1"
             />           
             <CardItem
-              src='images/Utensils/ut2.png'
+              src='images/Utensils/ut7.png'
               text='Hand Made Mandala Art on Tray'
-              path="/Utensil2"
+              path="/Utensil7"
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
               src='images/Utensils/ut3.png'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
+              text='Shree Plate(Thaal) with Traditional Kumaoni Aipan'
               path="/Utensil3"
             />
             <CardItem
-              src='images/Utensils/ut4.png'
-              text='Experience Football on Top of the Himilayan Mountains'
-              path="/Utensil4"
+              src='images/Utensils/ut2.png'
+              text='Tray With Colourful Mandala Art'
+              path="/Utensil2"
             />
             <CardItem
               src='images/Utensils/ut5.png'
-              text='Ride through the Sahara Desert on a guided camel tour'
+              text='Traditional Pahadi Vessels Painted with Aipan'
               path="/Utensil5"
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
               src='images/Utensils/ut6.png'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
+              text='Kettle (Yellow) With Basic Aipan'
               path="/Utensil6"
             />           
             <CardItem
-              src='images/Utensils/ut7.png'
-              text='Travel through the Islands of Bali in a Private Cruise'
-              path="/Utensil7"
+              src='images/Utensils/ut4.png'
+              text='Traditional Pahadi Vessels Painted with Aipan'
+              path="/Utensil4"
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
               src='images/Utensils/ut8.png'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
+              text='Beautiful Aipan Painted on Traditional Kettle'
               path="/Utensil8"
             />
             <CardItem
               src='images/Utensils/ut9.png'
-              text='Experience Football on Top of the Himilayan Mountains'
+              text='Swastik Plate (Thaal) Painted With Aipan Designs '
               path="/Utensil9"
             />
           

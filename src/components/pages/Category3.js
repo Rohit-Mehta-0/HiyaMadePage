@@ -10,68 +10,48 @@ function Category3() {
     <div className='cards' id="cards">
       <div className="category">
         <Button buttonSize='btn--wide'>
-            Category 3
+            Category 3 - Portraits/Photoframes
          </Button>
          <div className='cards__container'>
         <div className='cards__wrapper'>
         <ul className='cards__items'>
             <CardItem
-              src='images/Utensils/Utensils1.png'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
-              label='Adventure'
-              path="/Utensil1"
+              src='images/Frames/frame1.png'
+              text='Fine Colorful Art Portraying "BABA NEEMKIROLI" supported with Aipan Design'
+              path="/Frame1"
             />
             <CardItem
-              src='images/Utensils/Utensils2.png'
-              text='Travel through the Islands of Bali in a Private Cruise'
+              src='images/Frames/frame2.png'
+              text='Unique Aipan Design Presenting Lord Ganesha.'
               label='Luxury'
-              path="/Utensil2"
+              path="/Frame2"
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/Utensils/Utensils3.png'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
-              label='Mystery'
-              path="/Utensil3"
+              src='images/Frames/frame3.png'
+              text='Hand Made Chowki/Frame Shaped with Aipan Art'
+              path="/Frame3"
 
             />
             <CardItem
-              src='images/Utensils/Utensils4.png'
-              text='Experience Football on Top of the Himilayan Mountains'
-              label='Adventure'
-              path="/Utensil4"
+              src='images/Frames/frame4.png'
+              text='Magical Beauty of Mighty Lord Shiva Created over Cloth with Aipan Art'
+              path="/Frame4"
             />
             <CardItem
-              src='images/Utensils/Utensils5.png'
-              text='Ride through the Sahara Desert on a guided camel tour'
-              label='Adrenaline'
-              path="/Utensil5"
+              src='images/Frames/frame5.png'
+              text='Magical Beauty of Mighty Lord Shiva Created over Chawki with Aipan Art'
+              path="/Frame5"
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/Utensils/Utensils6.png'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
-              label='Adventure'
-              path="/Utensil6"
+              src='images/Frames/frame6.png'
+              text='Chawki/ Wall Hanging Portraying Lord Shiva with Fine Aipan Work'
+              path="/Frame6"
             />
-            <CardItem
-              src='images/Utensils/Utensils7.png'
-              text='Travel through the Islands of Bali in a Private Cruise'
-              label='Luxury'
-              path="/Utensil7"
-            />
-          </ul>
-          <ul className='cards__items'>
-            <CardItem
-              src='images/Utensils/Utensils8.png'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
-              label='Mystery'
-              path="/Utensil8"
-
-            />
-          </ul>
+            </ul>
         </div>
       </div>
       </div>

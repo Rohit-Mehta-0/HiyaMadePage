@@ -10,14 +10,14 @@ function Category4() {
     <div className='cards' id="cards">
       <div className="category">
         <Button buttonSize='btn--wide'>
-            Category 4
+            Category 4 - Wall Hangings
          </Button>
          <div className='cards__container'>
         <div className='cards__wrapper'>
         <ul className='cards__items'>
             <CardItem
               src='images/Paper/pp1.png'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
+              text='Fine Art presenting Stunning Photoframe of DemiGoddess'
               path="/Paper1"
             />
             <CardItem
@@ -29,13 +29,13 @@ function Category4() {
           <ul className='cards__items'>
             <CardItem
               src='images/Paper/pp3.png'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
+              text='Beautiful Aipan Painting Of Mighty Ganesha represting The Himalayan Culture Over a Cloth'
               path="/Paper3"
 
             />
             <CardItem
               src='images/Paper/pp4.png'
-              text='Experience Football on Top of the Himilayan Mountains'
+              text='Hand Made Wall Hanging Portraying Sunset via Mandala Art'
               path='/Paper4'
             />
            
