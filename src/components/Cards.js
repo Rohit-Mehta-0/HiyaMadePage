@@ -11,7 +11,7 @@ function Cards() {
       <h1>Check out these EPIC Works</h1>
       <div className="category">
         <Button buttonSize='btn--wide'>
-            Category 1 - Utensils(Bartan)
+            Category 1 - Utensils
          </Button>
          <div className='cards__container'>
         <div className='cards__wrapper'>
@@ -99,7 +99,7 @@ function Cards() {
       <br/><br/><br/><br/><hr/><hr/><hr/><hr/><hr/><hr/><hr/>
       <div className="category">
         <Button buttonSize='btn--wide'>
-            Category 3 - Portraits/Photoframes
+            Category 3 - Photoframes
          </Button>
          <div className='cards__container'>
         <div className='cards__wrapper'>

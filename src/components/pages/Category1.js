@@ -10,7 +10,7 @@ function Category1() {
     <div className='cards' id="cards">
      <div className="category">
         <Button buttonSize='btn--wide'>
-            Category 1 - Utensils(Bartan)
+            Category 1 - Utensils
          </Button>
          <div className='cards__container'>
         <div className='cards__wrapper'>
