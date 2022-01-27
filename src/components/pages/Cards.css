@@ -105,6 +105,9 @@
       padding: 1rem;
       background: #fff;
     }
+    .cards__item__info {
+      padding: 15px 18px 25px;
+    }
   }
   
   .category{
